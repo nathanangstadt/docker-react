@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>powered by Nathan Angstadt</p>
       </header>
     </div>
   );
